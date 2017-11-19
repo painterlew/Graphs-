@@ -1,4 +1,6 @@
-# Graphs-
-UW Bothell - CSS 502 - Winter2016 -
+# Graphs-Dijkstra and depth-first order
 
-Display the node numbers in depth-first order. Implement the specified graph ADT functions.
+graphm implements Dijkstra's shortest path algorithm.
+Find the lowest cost paths and display the cost and path from every node to every other node. 
+
+graphl display the node numbers in depth-first order.
